@@ -1,0 +1,31 @@
+
+DON QUIXOTE|MIGUEL|1|200
+NAME JAR|yanghsok|2|345
+the very best baby|bros lansky|3|400
+the Republic|PLATO|4|150
+the communist manifesto|karl|5|55
+the rights of man|thomas|6|56
+common sense|thomas|7|300
+democracy in america|alexis |8|450
+the prince|niccolo machiavelli|9|456
+on liberty|john stewart|10|123
+the wealth of nations|adam smith|11|453
+orientalism|edard said|12|200
+divide comedy |dante alighieri|13|500
+moby dick|herman|14|430
+1984|george|15|670
+brave new world|aldous huxley|16|246
+arabian nights|andrew|17|123
+war and peace|leo tolstoy|18|300
+faust|johann|19|500
+beloved|toni|20|67
+the second sex|simone|21|57
+walden|henry|22|45
+the jungle|upton|23|65
+native son|richard|24|345
+silent spring|eviro|25|678
+geographia|ptolmy|26|68
+the bible|ahmed|27|120
+the torah|omar|28|876
+things fall apart|mariaa|29|490
+crime and punishment|fyodor|30|23
